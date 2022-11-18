@@ -13,7 +13,7 @@ cmd: ["upf -c /free5gc/config/upfcfg.yaml"]
 parts:
   free5gc-upf:
     plugin: go
-    source: https://github.com/free5gc/upf
+    source: https://github.com/free5gc/go-upf
     source-type: git
     source-tag: v1.1.1
     organize:
