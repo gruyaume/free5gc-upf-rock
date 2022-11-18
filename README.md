@@ -7,6 +7,6 @@ Rock for the free5GC UPF service built using [rockcraft](https://github.com/cano
 ## Usage
 
 ```bash
-docker pull ghcr.io/gruyaume/free5gc-upf:1.1.1
-docker run -it ghcr.io/gruyaume/free5gc-upf:1.1.1
+docker pull ghcr.io/gruyaume/free5gc-upf:1.1.0
+docker run -it ghcr.io/gruyaume/free5gc-upf:1.1.0
 ```

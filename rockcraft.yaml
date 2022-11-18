@@ -1,7 +1,7 @@
 name: free5gc-upf
 summary: free5GC UPF
 description: free5GC UPF
-version: "1.1.1"
+version: "1.1.0"
 license: Apache-2.0
 base: bare
 build-base: ubuntu:22.04
@@ -15,6 +15,6 @@ parts:
     plugin: go
     source: https://github.com/free5gc/go-upf
     source-type: git
-    source-tag: v1.1.1
+    source-tag: v1.1.0
     organize:
       bin/cmd: bin/upf
